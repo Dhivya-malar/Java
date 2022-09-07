@@ -1,0 +1,7 @@
+public class Main {
+  public static void main(String[] args) {
+    float f1 =24e3f;
+    doubled1 =22e6d;
+    System.out.println(myNum);  
+  }
+}
