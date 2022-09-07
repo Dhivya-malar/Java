@@ -1,0 +1,6 @@
+public class Main {
+  public static void main(String[] args) {
+    double myNum =87.44f;
+    System.out.println(myNum);  
+  }
+}
